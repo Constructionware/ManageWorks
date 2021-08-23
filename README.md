@@ -1,2 +1,2 @@
-# Opal
-Opal Is a Project and Task Manager 
+# ManageWorks
+Project and Task Manager  
